@@ -1,0 +1,361 @@
+body{
+    font-family: arial;
+    font-size:12px;
+    color:#1e5474;
+    background:#F7F7F7;
+    margin:10px;
+}
+
+#container {
+    width: 1100px;
+    height: auto;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+#container #header {
+    margin-top: 20px;
+}
+
+#container #header #menu {
+    background: #1e5474;
+    padding: 5px 10px;
+    overflow: hidden;
+}
+
+#container #header #menu #user {
+    float: left;
+    color: white;
+}
+
+#container #header #menu #user a {
+    color: white;
+    padding-right: 5px;
+    margin-top: 5px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+#container #header #menu #button-keranjang {
+    float: right;
+    background: orange;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
+#container #header #menu #button-keranjang img {
+    vertical-align: bottom;
+}
+
+#container #footer {
+    background: #1e5474;
+    padding: 10px;
+}
+
+#container #footer p {
+    color: white;
+    text-align: right;
+    font-size: 10px;
+    font-style: italic;
+    margin: 0px;
+}
+
+#container #content {
+    padding:  10px 0px;
+    overflow: hidden;
+}
+
+#container-user-akses {
+    width: 350px;
+    height: auto;
+    margin: 50px auto;
+}
+
+.element-form {
+    margin-bottom: 15px;
+}
+
+.element-form label {
+    display: block;
+    font-weight: bold;
+}
+
+.element-form span {
+    display: block;
+}
+
+.element-form span input[type="text"],
+.element-form span input[type="password"],
+.element-form span textarea,
+.element-form span select {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.element-form span input[type="submit"] {
+    background: #1e5474;
+    border: none;
+    color: white;
+    padding: 7px 20px;
+    border-radius: 3px;
+    font-size: 9px;
+    cursor: pointer;
+}
+.element-form span input[type="submit"]:hover{
+    background:orange;
+}
+
+.notif {
+    background: #1e5474;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 11px;
+    color: white;
+}
+
+#bg-page-profile {
+    overflow: hidden;
+}
+
+#menu-profile {
+    float: left;
+    width: 245px;
+    background: #1e5474;
+}
+
+#menu-profile ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+#menu-profile ul li a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+#menu-profile ul li a:hover,
+#menu-profile ul li a.active {
+    background:orange;
+}   
+
+#profile-content {
+    float: left;
+    width: 835px;
+    padding: 10px;
+    background: white;
+}
+
+body{
+    font-family: arial;
+    font-size:12px;
+    color:#1e5474;
+    background:#F7F7F7;
+    margin:10px;
+}
+
+#container {
+    width: 1100px;
+    height: auto;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+#container #header {
+    margin-top: 20px;
+}
+
+#container #header #menu {
+    background: #1e5474;
+    padding: 5px 10px;
+    overflow: hidden;
+}
+
+#container #header #menu #user {
+    float: left;
+    color: white;
+}
+
+#container #header #menu #user a {
+    color: white;
+    padding-right: 5px;
+    margin-top: 5px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+#container #header #menu #button-keranjang {
+    float: right;
+    background: orange;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
+#container #header #menu #button-keranjang img {
+    vertical-align: bottom;
+}
+
+#container #footer {
+    background: #1e5474;
+    padding: 10px;
+}
+
+#container #footer p {
+    color: white;
+    text-align: right;
+    font-size: 10px;
+    font-style: italic;
+    margin: 0px;
+}
+
+#container #content {
+    padding:  10px 0px;
+    overflow: hidden;
+}
+
+#container-user-akses {
+    width: 350px;
+    height: auto;
+    margin: 50px auto;
+}
+
+.element-form {
+    margin-bottom: 15px;
+}
+
+.element-form label {
+    display: block;
+    font-weight: bold;
+}
+
+.element-form span {
+    display: block;
+}
+
+.element-form span input[type="text"],
+.element-form span input[type="password"],
+.element-form span textarea,
+.element-form span select {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.element-form span input[type="submit"] {
+    background: #1e5474;
+    border: none;
+    color: white;
+    padding: 7px 20px;
+    border-radius: 3px;
+    font-size: 9px;
+    cursor: pointer;
+}
+.element-form span input[type="submit"]:hover{
+    background:orange;
+}
+
+.notif {
+    background: #1e5474;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 11px;
+    color: white;
+}
+
+#bg-page-profile {
+    overflow: hidden;
+}
+
+#menu-profile {
+    float: left;
+    width: 245px;
+    background: #1e5474;
+}
+
+#menu-profile ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+#menu-profile ul li a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+#menu-profile ul li a:hover,
+#menu-profile ul li a.active {
+    background:orange;
+}   
+
+#profile-content {
+    float: left;
+    width: 835px;
+    padding: 10px;
+    background: white;
+}
+
+.tombol-action {
+    color: white;
+    background: #1e5474;
+    padding: 7px 15px;
+    border-radius: 3px;
+    text-decoration: none;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-size: 9px;
+}
+.tombol-action:hover{
+    background:orange;
+}
+
+#container #content #profile-content #frame-tambah a:hover,
+#container #content #profile-content #frame-tambah a.active {
+    background:orange;
+}  
+
+#container #content #profile-content #table-list a:hover,
+#container #content #profile-content #table-list a.active {
+    background:orange;
+} 
+
+.table-list {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table-list tr.baris-title {
+    background: silver;
+}
+
+.table-list tr th,
+.table-list tr td {
+    padding: 10px 7px;
+}
+
+.kolom-nomor {
+    width: 20px;
+    text-align: center;
+}
+
+.tengah {
+    text-align: center;
+}
+
+.kiri {
+    text-align: left;
+}
+
+.kanan {
+    text-align: right;
+}
+
+#frame-tambah {
+    margin-bottom: 10px;
+    float: right;
+}
